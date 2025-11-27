@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "name": "secure-wallet",
+      "path": "contracts/SecureWallet.tact",
+      "output": "build"
+    }
+  ]
+}

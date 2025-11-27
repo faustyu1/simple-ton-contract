@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": false,
+    "outDir": "dist"
+  },
+  "include": [
+    "deploy.ts",
+    "withdraw-link.ts",
+    "build/secure-wallet_SecureWallet.ts"
+  ]
+}
